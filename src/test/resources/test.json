@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "12:34",
+    "nickname": "John",
+    "content": "Hello, world!"
+  },
+  {
+    "timestamp": "14:56",
+    "nickname": "Jane",
+    "content": "How are you doing?"
+  }
+]
